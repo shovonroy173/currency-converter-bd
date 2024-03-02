@@ -8,7 +8,7 @@
     "test": "npm run test"
   },
   "author": "Shovon Roy",
-  "license": "ISC",
+  "license": "Apache License 2.0",
   "dependencies": {
     "@everapi/freecurrencyapi-js": "^1.0.1"
   }
